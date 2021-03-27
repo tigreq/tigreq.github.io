@@ -336,24 +336,6 @@
                 components: {
                     ButtonRouterComponent: g
                 },
-                data: function() {
-                    return {
-                        drawer: !1,
-                        routes: [{
-                            nameRoute: "ГЛАВНАЯ",
-                            linkRoute: "/"
-                        }, {
-                            nameRoute: "СЕНСОРЫ",
-                            linkRoute: "/essay"
-                        }, {
-                            nameRoute: "ЮРИДИЧЕСКИЕ ЗАКОНЫ",
-                            linkRoute: "/legallaw"
-                        }, {
-                            nameRoute: "НАУЧНАЯ ШКОЛА",
-                            linkRoute: "/businesscard"
-                        }]
-                    }
-                }
             },
             X = H,
             Z = (e("1c0c"), Object(d["a"])(X, G, L, !1, null, "24161648", null)),
