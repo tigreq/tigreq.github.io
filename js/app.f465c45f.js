@@ -243,24 +243,6 @@
                 components: {
                     ButtonRouterComponent: g
                 },
-                data: function() {
-                    return {
-                        drawer: !1,
-                        routes: [{
-                            nameRoute: "ГЛАВНАЯ",
-                            linkRoute: "https://yevgenevna.github.io/"
-                        }, {
-                            nameRoute: "СЕНСОРЫ",
-                            linkRoute: "https://yevgenevna.github.io/essay/"
-                        }, {
-                            nameRoute: "ЮРИДИЧЕСКИЕ ЗАКОНЫ",
-                            linkRoute: "/legallaw"
-                        }, {
-                            nameRoute: "НАУЧНАЯ ШКОЛА",
-                            linkRoute: "/businesscard"
-                        }]
-                    }
-                }
             },
             h = k,
             R = (e("d9a9"), e("6544")),
@@ -359,10 +341,10 @@
                         drawer: !1,
                         routes: [{
                             nameRoute: "ГЛАВНАЯ",
-                            linkRoute: "https://yevgenevna.github.io/"
+                            linkRoute: "/"
                         }, {
                             nameRoute: "СЕНСОРЫ",
-                            linkRoute: "https://yevgenevna.github.io/essay/"
+                            linkRoute: "/essay"
                         }, {
                             nameRoute: "ЮРИДИЧЕСКИЕ ЗАКОНЫ",
                             linkRoute: "/legallaw"
