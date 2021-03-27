@@ -526,9 +526,18 @@
                 var t = this,
                     a = t.$createElement,
                     e = t._self._c || a;
-                return e("div", [e("div", {
-                    staticClass: "heading"
-                }, [t._v("Мероприятие по созданию дрона-метеоролога в проекте “Каждый ребенок – изобретатель-исследователь”")]), e("create-dron-partials"), e("application-partials"), e("br"), e("br")], 1)
+                return e("a", {
+                    attrs: {
+                        href: "https://dronomania.ru/faq/zakon-o-bespilotnikah.html"
+                    }
+                }, [t._v("Источник с действующими юридическими законами")])])])
+				
+				
+				
+				
+				
+				
+				
             },
             ht = [],
             Rt = {
