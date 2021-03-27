@@ -248,10 +248,10 @@
                         drawer: !1,
                         routes: [{
                             nameRoute: "ГЛАВНАЯ",
-                            linkRoute: "/"
+                            linkRoute: "https://yevgenevna.github.io/"
                         }, {
                             nameRoute: "СЕНСОРЫ",
-                            linkRoute: "/essay"
+                            linkRoute: "https://yevgenevna.github.io/essay/"
                         }, {
                             nameRoute: "ЮРИДИЧЕСКИЕ ЗАКОНЫ",
                             linkRoute: "/legallaw"
