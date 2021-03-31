@@ -454,13 +454,29 @@
                     staticClass: "column-flex"
                 }, [e("div", {
                     staticClass: "text"
-                }, [t._v(" Для участия в школе дронов подавайте заявку ")]), e("br"), e("v-btn", {
+                }, [t._v(" Для участия в школе дронов подавайте заявку на главной странице сайта")]), e("br"), e("v-btn", {
                     attrs: {
                         rounded: "",
                         color: "#223880",
                         dark: ""
                     }
-                }, [t._v(" Подать заявку ")])], 1)
+					
+					
+					e("a", {
+                    attrs: {
+                        href: "https://yevgenevna.github.io/"
+                    }
+                
+					
+					
+					
+					
+					
+					
+					
+					
+					
+                }, [t._v(" Вернуться на главную ")])], 1)
             },
             lt = [];
         console.log("PartialsDronComponent", I);
