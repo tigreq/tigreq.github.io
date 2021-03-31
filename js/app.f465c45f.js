@@ -460,23 +460,7 @@
                         color: "#223880",
                         dark: ""
                     }
-					
-					
-					e("a", {
-                    attrs: {
-                        href: "https://yevgenevna.github.io/"
-                    }
-                
-					
-					
-					
-					
-					
-					
-					
-					
-					
-                }, [t._v(" Вернуться на главную ")])], 1)
+                }, [t._v(" Подать заявку ")])], 1)
             },
             lt = [];
         console.log("PartialsDronComponent", I);
