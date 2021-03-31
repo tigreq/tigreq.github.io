@@ -460,7 +460,7 @@ ot = function() {
                         color: "#223880",
                         dark: ""
                     }
-                }, [t._v(" Подать заявку ")])], 1)
+                }, [t._v("Нажмите кнопку «Назад» в браузере")])], 1)
             },
             lt = [];
         console.log("PartialsDronComponent", I);
